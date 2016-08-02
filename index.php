@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h2>Śmiesznie,Radośnie,SZAŁOWO!!!</h2>
+<h2 style="color: pink">Śmiesznie,Radośnie,SZAŁOWO!!!</h2>
 
 <form action="zaloguj.php" method="post">
 	Login:
